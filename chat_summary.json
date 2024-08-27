@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What thickness would you like the green border to be around the divs?\", \"option1\": \"1px (Thin)\", \"option2\": \"3px (Thick)\"}, {\"question 2\": \"Do you have a specific shade of green in mind for the border color?\", \"option1\": \"Use a light green (#90ee90)\", \"option2\": \"Use a dark green (#006400)\"}], \"input_token_count\": 272, \"output_token_count\": 99, \"time_taken\": \"0:00:03.477002\"}",
         "timestamp": "27082024190359",
         "message_id": "guest27082024190354"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement responsive design for optimal viewing across devices\", \"checked\": true}, {\"feature\": \"Add hover effects to buttons for better user interaction\", \"checked\": true}, {\"feature\": \"Include a lightbox feature for images to enhance product visualization\", \"checked\": false}, {\"feature\": \"Integrate a 'Scroll to Top' button for easy navigation\", \"checked\": true}, {\"feature\": \"Utilize CSS animations for smoother transitions on page\", \"checked\": false}, {\"feature\": \"Implement an accessibility toolbar for users with different abilities\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 119, \"time_taken\": \"0:00:04.003141\"}",
+        "timestamp": "27082024190359",
+        "message_id": "guest27082024190354"
     }
 ]
