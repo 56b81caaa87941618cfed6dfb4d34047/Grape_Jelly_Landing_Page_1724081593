@@ -12,5 +12,11 @@
         "content": "Certainly, I'll add a green border to every div.",
         "timestamp": "27082024190354",
         "message_id": "guest27082024190354"
+    },
+    {
+        "role": "user",
+        "content": "Add a green border to every single div",
+        "timestamp": "27082024190354",
+        "message_id": "guest27082024190354"
     }
 ]
