@@ -18,5 +18,11 @@
         "content": "Add a green border to every single div",
         "timestamp": "27082024190354",
         "message_id": "guest27082024190354"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What thickness would you like the green border to be around the divs?\", \"option1\": \"1px (Thin)\", \"option2\": \"3px (Thick)\"}, {\"question 2\": \"Do you have a specific shade of green in mind for the border color?\", \"option1\": \"Use a light green (#90ee90)\", \"option2\": \"Use a dark green (#006400)\"}], \"input_token_count\": 272, \"output_token_count\": 99, \"time_taken\": \"0:00:03.477002\"}",
+        "timestamp": "27082024190359",
+        "message_id": "guest27082024190354"
     }
 ]
